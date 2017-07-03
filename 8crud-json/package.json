@@ -1,0 +1,17 @@
+{
+  "name": "8crud-json",
+  "version": "1.0.0",
+  "description": "",
+  "main": "8.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "formidable": "^1.1.1",
+    "querystring": "^0.2.0"
+  }
+}
